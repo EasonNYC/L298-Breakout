@@ -808,13 +808,14 @@ Standard 15-pin 0.1" header. Use with straight break away headers (SKU : PRT-001
 <sheets>
 <sheet>
 <plain>
-<text x="123.19" y="5.334" size="2.54" layer="94" font="vector">Eason Smith</text>
+<text x="123.19" y="5.334" size="2.54" layer="94" font="vector">By Eason Smith</text>
 <text x="96.52" y="93.98" size="1.778" layer="94" font="vector">REV: 8-30-14</text>
 <text x="35.56" y="101.6" size="5.08" layer="94">L298 Breakout Board v1.0</text>
 <wire x1="33.02" y1="99.06" x2="119.38" y2="99.06" width="0.8128" layer="94"/>
 <wire x1="119.38" y1="99.06" x2="119.38" y2="109.22" width="0.8128" layer="94"/>
 <wire x1="119.38" y1="109.22" x2="33.02" y2="109.22" width="0.8128" layer="94"/>
 <wire x1="33.02" y1="109.22" x2="33.02" y2="99.06" width="0.8128" layer="94"/>
+<text x="71.12" y="-2.54" size="2.54" layer="94" font="vector">www.EasonRobotics.com</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="-17.78" y="-15.24"/>
