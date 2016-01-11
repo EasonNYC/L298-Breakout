@@ -1,6 +1,6 @@
 L298-Breakout
 =============
-A simple breakout board for the L298N motor driver.
+A simple breakout board for the L298N motor driver. Designed in Cadsoft Eagle.
 
 Made by Eason Smith (Eason@EasonRobotics.com)
 
